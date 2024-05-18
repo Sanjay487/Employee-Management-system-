@@ -1,2 +1,1 @@
-The first try using django,
-Loved it alot.
+The first try using django, 
